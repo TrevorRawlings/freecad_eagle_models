@@ -1,0 +1,22 @@
+{
+  "name": "freecad_eagle_models",
+  "version": "0.0.1",
+  "description": "eaglepcb2freecad models downloaded from https://sourceforge.net/projects/eaglepcb2freecad/files/models/",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+    "freecad",
+    "eaglepcb2feecad",
+    "electrical",
+	"PCB",
+	"Printed Circuit Board"
+  ],
+  "author": "Trevor Rawlings",
+  "contributors": [
+    "marmni <marmni@onet.eu>"
+  ],
+  "license": "GNU Lesser General Public License (LGPL)"
+}
